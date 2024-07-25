@@ -1,0 +1,5 @@
+Flask==3.0.3
+CaptchaCracker==0.0.7
+numpy==1.24.3
+tensorflow==2.13.1
+pillow==10.3.0
